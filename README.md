@@ -8,10 +8,13 @@
 <p align="left"><ahref="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/></a><a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1x/power-bi.png" alt="powerbi" width="40" height="40"/> </a> </p>
 
 <h2 align="left">Steps</h3>
-<p align="left">Data Import into MYSQL from CSV file.<br>
-Created queries to analyze the data.<br>
-Imported output as CSV file.<br>
-Used PowerBI & Excel to convert output into visuals</p>
+<p align="left">⚫ Data Import into MYSQL from CSV file.<br>
+
+⚫ Created queries to analyze the data.<br>
+
+⚫ Imported output as CSV file.<br>
+
+⚫ Used PowerBI & Excel to convert output into visuals</p>
 
 <h2 align="left">Insights</h3>
 <p align="left">◾📌𝐂𝐡𝐢𝐧𝐚, 𝐈𝐧𝐝𝐢𝐚 & 𝐔𝐒 𝐚𝐫𝐞 𝟑 𝐦𝐨𝐬𝐭 𝐩𝐨𝐩𝐮𝐥𝐨𝐮𝐬 𝐜𝐨𝐮𝐧𝐭𝐫𝐢𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐒𝐢𝐧𝐜𝐞 𝟏𝟗𝟖𝟎.<br>
